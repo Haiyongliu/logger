@@ -6,5 +6,5 @@
 	}
   
         dependencies {
-	        implementation 'com.github.Haiyongliu:logger:Tag'
+	        implementation 'com.github.Haiyongliu:logger:v1.0'
 	}
